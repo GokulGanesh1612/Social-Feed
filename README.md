@@ -33,5 +33,3 @@ A scalable, modular social media feed built using **Swift**, **MVVM architecture
 - **Plugins**: Extendable system for rendering custom feed items
 
 ---
-
-## 📁 Folder Structure
