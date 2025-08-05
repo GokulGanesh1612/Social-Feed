@@ -31,5 +31,3 @@ A scalable, modular social media feed built using **Swift**, **MVVM architecture
 - **ViewModels**: `FeedViewModel` with Combine publishers
 - **Views**: `FeedView`, `FeedItemView` (modular components)
 - **Plugins**: Extendable system for rendering custom feed items
-
----
